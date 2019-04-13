@@ -1,2 +1,3 @@
 # Projekt_STD
-Zarządzanie projektem informatycznym
+Michał Targiel
+Łukasz Goździk
